@@ -24,7 +24,7 @@
 		<PackageTags>command line;commandline;argument;option;parser;parsing;library;syntax;shell</PackageTags>
 		<PackageReleaseNotes>https://github.com/commandlineparser/commandline/blob/master/CHANGELOG.md</PackageReleaseNotes>
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-		<LangVersion>8.0</LangVersion>
+		<LangVersion>default</LangVersion>
 		<IncludeSymbols>true</IncludeSymbols>
 		<SymbolPackageFormat>snupkg</SymbolPackageFormat>
 	</PropertyGroup>
